@@ -6,13 +6,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=3000&pause=5000&color=51F794&center=true&vCenter=true&lines=Hi+I'm+Jaekwan)](https://git.io/typing-svg)
 <br><br><br>
 
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!-- 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=bdjaekwanee&theme=vue&hide_border=true" width=98%/>
 </a>
+-->
 
 
 
