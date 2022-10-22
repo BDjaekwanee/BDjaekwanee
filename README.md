@@ -7,12 +7,10 @@
 <br><br><br>
 
 
-<!-- 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=bdjaekwanee&theme=vue&hide_border=true" width=98%/>
 </a>
--->
 
 
 
