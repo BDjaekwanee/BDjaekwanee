@@ -9,8 +9,10 @@
 
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=bdjaekwanee&theme=vue&hide_border=true" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=bdjaekwanee&theme=github-compact&hide_border=true" width=98%/>
+
 </a>
+
 
 
 
