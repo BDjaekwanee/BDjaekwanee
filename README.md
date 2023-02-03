@@ -20,7 +20,7 @@
 <h1><img src="https://user-images.githubusercontent.com/95554757/196972046-4e686d74-2379-4cfd-86cb-b02d031927a2.png" width=30%/>
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,git,linux,mysql,r,vscode,eclipse,html,css,docker&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,linux,mysql,r,kubernetes,docker&perline=4)](https://skillicons.dev)
 
 <br/>
 
